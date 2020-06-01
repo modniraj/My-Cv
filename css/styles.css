@@ -1,0 +1,174 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62em;
+  padding-top: 8%;
+  color: #12947f;
+
+
+}
+
+h2{
+
+font-family: 'Ubuntu Mono', monospace;
+font-size: 2.5em;
+color: #66BFBF;
+font-weight: lighter;
+}
+
+h3{
+
+  font-family: 'Ubuntu Mono', monospace;
+  color: #11999E;
+  font-size: 1.4em;
+
+
+
+}
+
+hr{
+border: dotted 6px;
+border-top: none;
+width: 4%;
+margin: 100px auto;
+color: #dbdbdb;
+
+}
+
+.top-container{
+position: relative;
+
+background-color: #cff1ef;
+
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 40%;
+  top: 5%;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+}
+
+
+
+.middle-container{
+
+
+position: relative;
+margin: 6% auto;
+}
+
+.niru{
+  width: 15%;
+  margin-top: 5%;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+  }
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill1{
+  float: left;
+  width: 25%;
+  margin-right: 4%;
+
+
+}
+
+.skill2{
+
+float: right;
+width: 25%;
+
+}
+
+.skill-text1{
+margin-bottom: 20%;
+line-height: 2;
+
+}
+
+
+  .skill-text2{
+line-height: 2;
+  }
+
+.contact-me{
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+
+.btn{
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.contact-edit{
+
+color: white;
+
+}
+.interest{
+margin: 7% auto 11% auto;
+line-height: 2;
+
+}
+
+
+.final-h3{
+  margin-top: 9%;
+}
+
+
+.bottom-container{
+  background-color: #66BFBF;
+padding-top: 3.5%;
+padding-bottom: 2%;
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin: 5% auto;
+margin: 0 1.6% 0 1.6%;
+}
+
+
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+
+.copy-rights{
+  color: white;
+margin: 2% auto 2% auto;
+font-size: 0.75em;
+}
